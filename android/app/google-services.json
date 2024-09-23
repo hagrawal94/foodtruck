@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504131612092",
+    "project_id": "food-trucks-ca748",
+    "storage_bucket": "food-trucks-ca748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504131612092:android:746ec0c8ab0be379990fb9",
+        "android_client_info": {
+          "package_name": "com.kjbn.departuretimes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQl-wS-vPWWzOs_J4wZUE82_SBqP7d_q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
